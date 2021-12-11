@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled sorted 
+6d93181cfde5717a1d8b36f8233db0d59b2c4bda refs/remotes/origin/chaincode-2
+178486c2279eae70a29b516ffc59b65d1d76a8fe refs/remotes/origin/chaincode-3
+010e8d7510f8dfe69fd46494ddf8b4748fd73d0d refs/remotes/origin/chaincode-4
+a69412ec40e1025238e0e16b8cfb3cf1a90807b9 refs/remotes/origin/chaincode-5
+b5f53f1bf9b7f591520f9781faa868958e6cbb8f refs/remotes/origin/chaincode-6
+cae1b81a22ada664c1f7930ec189bd6c84a7719a refs/remotes/origin/chaincode-7
+d45babdb19d18893e3b041e4077c86a33683e6f5 refs/remotes/origin/master
